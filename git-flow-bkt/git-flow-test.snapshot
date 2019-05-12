@@ -279,7 +279,7 @@
         }
       },
       "runDurationMillis" : 0,
-      "schedulingPeriod" : "0 sec",
+      "schedulingPeriod" : "5 sec",
       "schedulingStrategy" : "TIMER_DRIVEN",
       "style" : { },
       "type" : "org.apache.nifi.processors.standard.PutFile",
