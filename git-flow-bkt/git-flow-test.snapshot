@@ -388,7 +388,7 @@
       },
       "properties" : {
         "character-set" : "UTF-8",
-        "File Size" : "0B",
+        "File Size" : "10b",
         "generate-ff-custom-text" : "hello",
         "Batch Size" : "1",
         "Unique FlowFiles" : "false",
